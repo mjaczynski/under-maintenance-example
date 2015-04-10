@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/mjaczynski/under-maintenance-example/issues"
   },
-  "homepage": "https://github.com/mjaczynski/under-maintenance-example"
+  "homepage": "https://github.com/mjaczynski/under-maintenance-example",
+  "dependencies": {
+    "cfenv": "^1.0.0",
+    "under-maintenance": "^1.0.1"
+  }
 }
